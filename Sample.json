@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 77,
+    "articles": [
+      {
+        "source": {
+          "id": "info-money",
+          "name": "InfoMoney"
+        },
+        "author": "Equipe InfoMoney",
+        "title": "Ibovespa sobe e retoma os 111 mil pontos, puxado por VALE3 e PETR4; dólar volta a ficar abaixo de R$ 5",
+        "description": "Acompanhe o que movimenta a bolsa, ações, dólar, juros e commodities nos negócios do pregão desta sexta-feira (25).",
+        "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26052023/",
+        "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2022/07/alta3.jpg?quality=70",
+        "publishedAt": "2023-05-26T17:18:15Z",
+        "content": "update 14h19 Dólar comercial acelera ainda mais a queda: menos 0,99%, a R$ 4,986, nova mínima da sessão\r\nupdate 14h14 Com alta atual de 1,24%, Ibovespa caminha para mais uma semana positiva, com mais… [+63769 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn-es",
+          "name": "CNN Spanish"
+        },
+        "author": "Sol Amaya",
+        "title": "Seguimos esperando coches autónomos, pero los barcos autónomos ya están aquí",
+        "description": "Durante años se prometieron automóviles totalmente autónomos, pero a pesar de las numerosas pruebas en carretera y los avances tecnológicos, todavía estamos esperando. En el agua, la situación es un poco diferente.",
+        "url": "https://cnnespanol.cnn.com/2023/05/26/seguimos-esperando-coches-autonomos-pero-los-barcos-autonomos-ya-estan-aqui-trax/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/05/autonomo.jpg?quality=100&strip=info",
+        "publishedAt": "2023-05-26T17:10:04Z",
+        "content": "(CNN) -- Durante años se prometieron automóviles totalmente autónomos, pero a pesar de las numerosas pruebas en carretera y los avances tecnológicos, todavía estamos esperando.\r\nEn 2016, Lyft predijo… [+4744 chars]"
+      },
+      {
+        "source": {
+          "id": "lequipe",
+          "name": "L'equipe"
+        },
+        "author": "L'EQUIPE",
+        "title": "Arthur Fils se qualifie à Lyon pour la première finale de sa carrière",
+        "description": "À 18 ans, le Français Arthur Fils s'est qualifié pour la première finale de sa carrière en battant Brandon Nakashima à Lyon. Il y affrontera Francisco Cerundolo pour le titre.",
+        "url": "https://www.lequipe.fr/Tennis/Actualites/Arthur-fils-se-qualifie-a-lyon-pour-la-premiere-finale-de-sa-carriere/1398764",
+        "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/arthur-fils-a-lyon-a-martin-l-equipe/1500000001789578/0:0,1998:1332-640-427-75/cdc43.jpg",
+        "publishedAt": "2023-05-26T17:09:57+00:00",
+        "content": "Il a fêté sa victoire un peu trop tôt, la faute à une balle ''in'' qu'il avait estimée ''out'', mais Arthur Fils a fini par savourer son succès, vendredi, en demi-finales du tournoi de Lyon face à Br… [+278 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "CNN",
+        "title": "State judge temporarily blocks South Carolina’s 6-week abortion ban - CNN",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wNS8yNi9wb2xpdGljcy9zb3V0aC1jYXJvbGluYS1hYm9ydGlvbi1sYXcvaW5kZXguaHRtbNIBUmh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjMvMDUvMjYvcG9saXRpY3Mvc291dGgtY2Fyb2xpbmEtYWJvcnRpb24tbGF3L2luZGV4Lmh0bWw?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-05-26T17:06:00+00:00",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "espn",
+          "name": "ESPN"
+        },
+        "author": "Josh Weinfuss",
+        "title": "Cardinals release WR DeAndre Hopkins after three seasons - ESPN",
+        "description": "The Cardinals have released wide receiver DeAndre Hopkins following a three-year run in Arizona.",
+        "url": "https://www.espn.com/nfl/story/_/id/37734842/cardinals-release-wr-deandre-hopkins-three-seasons",
+        "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0330%2Fr1152199_1296x729_16%2D9.jpg",
+        "publishedAt": "2023-05-26T17:04:00Z",
+        "content": "TEMPE, Ariz. -- The Arizona Cardinals released wide receiver DeAndre Hopkins on Friday, the team announced.\r\nHopkins' future with the Cardinals had been in question since the end of the 2022 season b… [+1409 chars]"
+      }
+    ]
+  }
